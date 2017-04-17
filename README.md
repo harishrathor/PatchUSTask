@@ -86,7 +86,9 @@ Enter F3
 Total no of trees=12
 
 
-I am not sure that this outpur is correct or not because I have used a library which tells the no. of points which are inside
+I am not sure that this output is correct or not because I have used a library which tells the no. of points which are inside
 the polygon. So, the output is depending on this library.
+
+It is to be debuged more.
 
 
